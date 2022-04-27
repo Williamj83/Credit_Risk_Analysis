@@ -15,41 +15,41 @@ We will then compare BalancedRandomForestClassifier and EasyEnsembleClassifier, 
 
 Model Accuracy 
 
-!["images/01_NaiveRandom2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/Naive_Random.png)
+!["images/01_NaiveRandom2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/images/Naive_Random.png)
 
 
 ## SMOTE Oversampling
 
 Model Accuracy 
 
-!["images/02_SMOTE2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/Smote.png)
+!["images/02_SMOTE2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/images/Smote.png)
 
 
 ## Undersampling
 
 Model Accuracy 
-!["images/03_UnderSamp2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/Undersampling.png)
+!["images/03_UnderSamp2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/images/Undersampling.png)
 
 
 ## Combination (Over and Under) Sampling
 
 Model Accuracy 
 
-!["images/04_Combi2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/Combination.png)
+!["images/04_Combi2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/images/Combination.png)
 
 
 ## Balanced Random Forest Classifier
 
 Model Accuracy 
 
-!["images/05_RandomForest2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/Balanced_random.png)
+!["images/05_RandomForest2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/images/Balanced_random.png)
 
 
 ## Easy Ensemble AdaBoost Classifier
 
 Model Accuracy 
 
-!["images/06_AdaBoost2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/easy_ensemble.png)
+!["images/06_AdaBoost2.png"](https://github.com/Williamj83/Credit_Risk_Analysis/blob/main/images/easy_ensemble.png)
 
 
 ## Summary
